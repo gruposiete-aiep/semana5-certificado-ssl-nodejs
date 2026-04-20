@@ -1,1 +1,4 @@
-certs/
+# Certificados SSL
+certs/*.key
+certs/*.crt
+certs/*.pem
