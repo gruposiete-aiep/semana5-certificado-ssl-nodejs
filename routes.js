@@ -72,15 +72,15 @@ router.get('/equipo', (req, res) => {
     semana: 5,
     integrantes: [
       {
-        rol: 'Scaffold del proyecto',
+        rol: 'Scaffold del proyecto - Sebastian Alvarez',
         tarea: 'Generó la estructura base del servidor Node.js con Express'
       },
       {
-        rol: 'Generación de certificados SSL',
+        rol: 'Generación de certificados SSL - Jose Alvarez',
         tarea: 'Generó la clave privada y el certificado con OpenSSL y configuró el servidor HTTPS'
       },
       {
-        rol: 'Lógica de rutas',
+        rol: 'Lógica de rutas - Ignacio de la Vega',
         tarea: 'Implementó las rutas del servidor Express (router.js)'
       }
     ]
