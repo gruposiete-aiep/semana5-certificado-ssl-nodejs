@@ -50,8 +50,8 @@ proyecto/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/<usuario>/<repositorio>.git
-cd <repositorio>
+git clone https://github.com/gruposiete-aiep/semana5-certificado-ssl-nodejs.git
+cd semana5-certificado-ssl-nodejs
 ```
 
 ### 2. Instalar dependencias
